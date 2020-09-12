@@ -9,6 +9,6 @@ Recuerden recostruir los modulos del node:
 npm install
 ```
 
-Y para reconstuir el build, recuerdn:
+Y para reconstuir el build, recuerden:
 ```
 npm run build
